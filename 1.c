@@ -2,7 +2,7 @@
 
 main(){
 	
-	int a,b,c;
+	int a,b;
 	
 	printf("Enter A :- ");
 	scanf("%i",&a);
